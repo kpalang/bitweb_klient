@@ -1,0 +1,9 @@
+C:\Users\kaurp\source\repos\BitWebKlient\BitWebKlient\bin\Debug\BitWebKlient.exe.config
+C:\Users\kaurp\source\repos\BitWebKlient\BitWebKlient\bin\Debug\BitWebKlient.exe
+C:\Users\kaurp\source\repos\BitWebKlient\BitWebKlient\bin\Debug\BitWebKlient.pdb
+C:\Users\kaurp\source\repos\BitWebKlient\BitWebKlient\obj\Debug\BitWebKlient.csprojResolveAssemblyReference.cache
+C:\Users\kaurp\source\repos\BitWebKlient\BitWebKlient\obj\Debug\BitWebKlient.csproj.CoreCompileInputs.cache
+C:\Users\kaurp\source\repos\BitWebKlient\BitWebKlient\obj\Debug\BitWebKlient.exe
+C:\Users\kaurp\source\repos\BitWebKlient\BitWebKlient\obj\Debug\BitWebKlient.pdb
+C:\Users\kaurp\source\repos\BitWebKlient\BitWebKlient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kaurp\source\repos\BitWebKlient\BitWebKlient\bin\Debug\Newtonsoft.Json.xml
